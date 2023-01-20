@@ -1,0 +1,5 @@
+numpy==1.21.5
+pandas==1.5.2
+psycopg2==2.9.5
+snscrape==0.5.0.20230114.dev5+g36e85c5
+SQLAlchemy==1.4.32
