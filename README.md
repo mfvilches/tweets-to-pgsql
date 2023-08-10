@@ -13,4 +13,4 @@ Las librerías y sis versiones se encuentran en el archivo requirements.txt
 
 Por razones de facilidad de configuración y seguridad, se cuenta con un archivo de configuración (config.py) donde se puede cambiar las fechas de búsqueda y el rango, como también agregar el string de conexión a la base de datos.
 
-
+aaa
