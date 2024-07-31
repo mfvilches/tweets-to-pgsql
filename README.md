@@ -7,7 +7,7 @@ Por el momento, se puede rescatar la información de tweets de una ventana de di
 
 Para realizar este proyecto es necesario contar con una Base de Datos PostgreSQL y una tabla con permisos de escritura.
 La versión de Python debe ser al menos 3.9.12
-Las librerías y sis versiones se encuentran en el archivo requirements.txt
+Las librerías y sus versiones se encuentran en el archivo requirements.txt
 
 # Archivo de configuración
 
